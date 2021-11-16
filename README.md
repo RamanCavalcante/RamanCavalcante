@@ -1,12 +1,13 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+![31856676](https://user-images.githubusercontent.com/31856676/142016534-cd7f588a-3ce0-4fb1-a157-c8d21e54185e.jpg)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+### Olá, eu sou Raman 👋
+Atualmente estou me graduando em ciência da computação e procurando oportunidades que me façam aprender mais como programador, desenvolver minhas habilidades sociais e me tornar um profissional melhor.
+- 🔭 Recentemente estou estudando python, focado em automações.
+- 🌱 Eu gosto de assistir filmes e séries e curtir com os amigos.
+- 📝 Veja meu Currículo <a href="#" target="_blank">clicando aqui</a> para mais informações.
+- 📫 Por favor, envie um email para cavalcanteraman2@gmail.com para me encontrar.
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RamanCavalcante)
 
+src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raman7/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ramancavalcante/)
