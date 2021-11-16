@@ -5,7 +5,7 @@
 Atualmente estou me graduando em ciência da computação e procurando oportunidades que me façam aprender mais como programador, desenvolver minhas habilidades sociais e me tornar um profissional melhor.
 - 🔭 Recentemente estou estudando python, focado em automações.
 - 🌱 Eu gosto de assistir filmes e séries e curtir com os amigos.
-- 📝 Veja meu Currículo <a href="#" target="_blank">clicando aqui</a> para mais informações.
+- 📝 Veja meu Currículo <a href="https://drive.google.com/file/d/1gkk-KjLYO37QYKSPD1o3HDpH8KLjeFbv/view?usp=sharing" target="_blank">clicando aqui</a> para mais informações.
 - 📫 Por favor, envie um email para cavalcanteraman2@gmail.com para me encontrar.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RamanCavalcante)
