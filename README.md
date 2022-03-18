@@ -8,6 +8,9 @@ Atualmente estou me graduando em ciência da computação e procurando oportunid
 - 📝 Veja meu Currículo <a href="https://drive.google.com/file/d/1gkk-KjLYO37QYKSPD1o3HDpH8KLjeFbv/view?usp=sharing" target="_blank">clicando aqui</a> para mais informações.
 - 📫 Por favor, envie um email para cavalcanteraman2@gmail.com para me encontrar.
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RamanCavalcante)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raman7/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ramancavalcante/)
