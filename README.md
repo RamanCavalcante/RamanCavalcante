@@ -2,7 +2,7 @@
 
 ![31856676](https://user-images.githubusercontent.com/31856676/142016534-cd7f588a-3ce0-4fb1-a157-c8d21e54185e.jpg)
 
-Atualmente estou me graduando em ciência da computação e procurando oportunidades que me façam aprender mais como programador, desenvolver minhas habilidades sociais e me tornar um profissional melhor.
+Atualmente estou me graduando em ciência da computação e procurando oportunidades que me façam aprender mais como programador, desenvolver minhas habilidades sociais e me tornar um profissional melhor, gosto de aprender novas linguagens de programação.
 
 - 🌱 Eu gosto de assistir filmes e séries e curtir com os amigos.
 - 📝 Veja meu Currículo <a href="https://drive.google.com/file/d/1gkk-KjLYO37QYKSPD1o3HDpH8KLjeFbv/view?usp=sharing" target="_blank">clicando aqui</a> para mais informações.
