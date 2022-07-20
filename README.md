@@ -7,8 +7,8 @@ Atualmente estou me graduando em ciência da computação e procurando oportunid
 - 🌱 Eu gosto de assistir filmes e séries e curtir com os amigos.
 - 📝 Veja meu Currículo <a href="https://drive.google.com/file/d/1gkk-KjLYO37QYKSPD1o3HDpH8KLjeFbv/view?usp=sharing" target="_blank">clicando aqui</a> para mais informações.
 - 📫 Por favor, envie um email para cavalcanteraman2@gmail.com para me encontrar.
-- 🔭 I’m currently working on [Um Sistema de Baixo Custo para Redes Inteligentes de Transporte Público](https://periodicos2.uesb.br/index.php/recic/article/view/7708https://periodicos2.uesb.br/index.php/recic/article/view/7708)
-- 🌱 Atualmente estou aprendendo **C, Elixir, Spring**
+- 🔭 Atualmente estou trabalhando em  [Um Sistema de Baixo Custo para Redes Inteligentes de Transporte Público](https://periodicos2.uesb.br/index.php/recic/article/view/7708https://periodicos2.uesb.br/index.php/recic/article/view/7708)
+- 🌱 Estou aprendendo **C, Elixir, Spring**
 
 
 
