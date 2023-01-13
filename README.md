@@ -5,7 +5,7 @@
 Atualmente estou me graduando em ciência da computação e procurando oportunidades que me façam aprender mais como programador, desenvolver minhas habilidades sociais e me tornar um profissional melhor, gosto de aprender novas linguagens de programação.
 
 - 🌱 Eu gosto de assistir filmes e séries e curtir com os amigos.
-- 📝 Veja meu Currículo <a href="https://resume.io/r/SzSbmjlzL" target="_blank">clicando aqui</a> para mais informações.
+- 📝 Veja meu Currículo <a href="https://drive.google.com/file/d/1NX5Pe08KmqO3sle3hDimcJ_2PK_MUsll/view?usp=sharing" target="_blank">clicando aqui</a> para mais informações.
 - 📫 Por favor, envie um email para cavalcanteraman2@gmail.com para me encontrar.
 - 🔭 Atualmente estou trabalhando em  [Um Sistema de Baixo Custo para Redes Inteligentes de Transporte Público](https://periodicos2.uesb.br/index.php/recic/article/view/7708https://periodicos2.uesb.br/index.php/recic/article/view/7708)
 - 🌱 Estou aprendendo **Ruby on Rails, Java**
