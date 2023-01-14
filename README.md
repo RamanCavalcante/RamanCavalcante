@@ -1,16 +1,14 @@
-<h1 align="center">Hello, I'm Raman 👋</h1>
-<h3 align="center">I'm a Computer Science student and here I keep some of my projects</h3>
-<h3>My personal interests:</h3>
+<h1 align="center">Olá, eu sou Raman👋</h1>
+<h3 align="center">Eu sou estudante de ciência da computação e aqui guardo alguns projetos pessoais e outro da faculdade</h3>
 
   <img align="right" src="https://media.tenor.com/g3y2q5VQxvAAAAAC/cat-computer.gif" width="400px">
 
 - 🔭 **Atualmente estou trabalhando no meu portfólio**
-- 🌱 I’m currently learning **Ruby on Rails, back-end**
-- 🤝 I’m looking for help with **Graphql**
-- 💬 Ask me about **Java, Android Studio**
-- 📫 How to reach me **cavalcanteraman2@gmail.com**
-- ⚡ Fun fact **I like to learn new languages**
-
+- 🌱 **Estou estudando Ruby on Rails e back-end**
+- 🧪 **Tenho experiência com Java e Android Studio**
+- 📫 **Posso ser contato pelo meu email cavalcanteraman2@gmail.com**
+- ⚡ **Eu gosto de aprender novas linguagens**
+,
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <Linkedin>
