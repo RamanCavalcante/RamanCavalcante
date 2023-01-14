@@ -1,9 +1,12 @@
-![31856676](https://user-images.githubusercontent.com/31856676/142016534-cd7f588a-3ce0-4fb1-a157-c8d21e54185e.jpg)
 <h1 align="center">Hello, I'm Raman 👋</h1>
 <h3 align="center">I'm majoring in Computer Science and here I keep some of my projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramancavalcante&label=Profile%20views&color=0e75b6&style=flat" alt="ramancavalcante" /> </p>
+<br />
+<h2>My personal interests:</h2>
 
+  <img align="right" src="https://media.tenor.com/g3y2q5VQxvAAAAAC/cat-computer.gif" width="400px">
+
+<br />
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Ruby on Rails, back-end**
