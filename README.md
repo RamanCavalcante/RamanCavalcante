@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Raman 👋</h1>
-<h3 align="center">I'm majoring in Computer Science and here I keep some of my projects</h3>
-
+<h3 align="center">I'm a Computer Science student and here I keep some of my projects</h3>
 <br />
 <h2>My personal interests:</h2>
 
