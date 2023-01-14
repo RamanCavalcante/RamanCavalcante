@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Raman 👋</h1>
 <h3 align="center">I'm a Computer Science student and here I keep some of my projects</h3>
-<br />
-<h2>My personal interests:</h2>
+<h3>My personal interests:</h3>
 
   <img align="right" src="https://media.tenor.com/g3y2q5VQxvAAAAAC/cat-computer.gif" width="400px">
 
