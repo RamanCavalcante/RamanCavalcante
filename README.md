@@ -4,16 +4,11 @@
 
   <img align="right" src="https://media.tenor.com/g3y2q5VQxvAAAAAC/cat-computer.gif" width="400px">
 
-- 🔭 I’m currently working on **my portfolio**
-
+- 🔭 **Atualmente estou trabalhando no meu portfólio**
 - 🌱 I’m currently learning **Ruby on Rails, back-end**
-
 - 🤝 I’m looking for help with **Graphql**
-
 - 💬 Ask me about **Java, Android Studio**
-
 - 📫 How to reach me **cavalcanteraman2@gmail.com**
-
 - ⚡ Fun fact **I like to learn new languages**
 
 <h3 align="left">Connect with me:</h3>
