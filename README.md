@@ -4,8 +4,9 @@
   <img align="right" src="https://media.tenor.com/g3y2q5VQxvAAAAAC/cat-computer.gif" width="400px">
 
 - 🔭 Atualmente estou trabalhando no meu portfólio
+- 🚀 O meu objetivo é atuar como back-end
 - 🌱 Estou estudando Ruby on Rails e back-end
-- 🧪 Tenho experiência com Java e Android Studio
+- 🧪 Tenho experiência com Java e Android Studio, sql
 - 📫 Posso ser contato pelo meu email cavalcanteraman2@gmail.com
 - ⚡ Eu gosto de aprender novas linguagens
 - 📝 <a href="https://drive.google.com/file/d/1NX5Pe08KmqO3sle3hDimcJ_2PK_MUsll/view?usp=sharing" target="_blank">Clique aqui</a> para ve meu currículo
