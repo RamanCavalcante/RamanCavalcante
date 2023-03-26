@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Raman👋</h1>
 <h3 align="center">I am a computer science student and I keep some personal projects and others from college here</h3>
   <img align="right" src="https://media.tenor.com/g3y2q5VQxvAAAAAC/cat-computer.gif" width="400px">
-🔭 I am currently working on my portfolio
-🚀 My goal is to work as a back-end developer
-🌱 I am studying Ruby on Rails and back-end
-🧪 I have experience with Java and Android Studio, sql
-📫 You can reach me at cavalcanteraman2@gmail.com
-⚡ I love learning new languages
-📝 <a href="https://drive.google.com/file/d/1NX5Pe08KmqO3sle3hDimcJ_2PK_MUsll/view?usp=sharing" target="_blank">Click here</a> to see my resume
-<h3 align="left">Connect with me:</h3>
+<p>🔭 I am currently working on my portfolio</p>
+<p>🚀 My goal is to work as a back-end developer</p>
+<p>🌱 I am studying Ruby on Rails and back-end<p>
+<p>🧪 I have experience with Java and Android Studio, sql</p>
+<p>📫 You can reach me at cavalcanteraman2@gmail.com</p>
+<p>⚡  I love learning new languages</p>
+<p>📝 <a href="https://drive.google.com/file/d/1NX5Pe08KmqO3sle3hDimcJ_2PK_MUsll/view?usp=sharing" target="_blank">Click here</a> to see my resume
+<h3 align="left">Connect with me:</h3></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
