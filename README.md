@@ -1,20 +1,14 @@
-<h1 align="center">Olá, eu sou Raman👋</h1>
-<h3 align="center">Eu sou estudante de ciência da computação e aqui guardo alguns projetos pessoais e outro da faculdade</h3>
-
+<h1 align="center">Hi, I'm Raman👋</h1>
+<h3 align="center">I am a computer science student and I keep some personal projects and others from college here</h3>
   <img align="right" src="https://media.tenor.com/g3y2q5VQxvAAAAAC/cat-computer.gif" width="400px">
-
-- 🔭 Atualmente estou trabalhando no meu portfólio
-- 🚀 O meu objetivo é atuar como back-end
-- 🌱 Estou estudando Ruby on Rails e back-end
-- 🧪 Tenho experiência com Java e Android Studio, sql
-- 📫 Posso ser contato pelo meu email cavalcanteraman2@gmail.com
-- ⚡ Eu gosto de aprender novas linguagens
-- 📝 <a href="https://drive.google.com/file/d/1NX5Pe08KmqO3sle3hDimcJ_2PK_MUsll/view?usp=sharing" target="_blank">Clique aqui</a> para ve meu currículo
+🔭 I am currently working on my portfolio
+🚀 My goal is to work as a back-end developer
+🌱 I am studying Ruby on Rails and back-end
+🧪 I have experience with Java and Android Studio, sql
+📫 You can reach me at cavalcanteraman2@gmail.com
+⚡ I love learning new languages
+📝 <a href="https://drive.google.com/file/d/1NX5Pe08KmqO3sle3hDimcJ_2PK_MUsll/view?usp=sharing" target="_blank">Click here</a> to see my resume
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <Linkedin>
-<a href="https://linkedin.com/in/raman7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raman7" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
