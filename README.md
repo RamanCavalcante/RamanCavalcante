@@ -6,7 +6,7 @@
 <p>🌱 I am studying Ruby on Rails and back-end<p>
 <p>🧪 I have experience with Java and Android Studio, sql</p>
 <p>📫 You can reach me at cavalcanteraman2@gmail.com</p>
-<p>⚡  I love learning new languages</p>
+<p>⚡  I like to learn new programming languages</p>
 <p>📝 <a href="https://drive.google.com/file/d/1NX5Pe08KmqO3sle3hDimcJ_2PK_MUsll/view?usp=sharing" target="_blank">Click here</a> to see my resume
 <h3 align="left">Connect with me:</h3></p>
 
