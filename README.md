@@ -4,7 +4,7 @@
 <p>🔭 I am currently working on my portfolio</p>
 <p>🚀 My goal is to work as a back-end developer</p>
 <p>🌱 I am studying Ruby on Rails and back-end<p>
-<p>🧪 I have experience with Java and Android Studio, sql</p>
+<p>🧪 I have experience with Java and Android Studio, Ruby e Ruby on Rails</p>
 <p>📫 You can reach me at cavalcanteraman2@gmail.com</p>
 <p>⚡  I like to learn new programming languages</p>
 <p>📝 <a href="https://drive.google.com/file/d/1NX5Pe08KmqO3sle3hDimcJ_2PK_MUsll/view?usp=sharing" target="_blank">Click here</a> to see my resume
