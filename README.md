@@ -4,7 +4,7 @@
 <p>🔭 I am currently working on my portfolio</p>
 <p>🚀 My goal is to work as a back-end developer</p>
 <p>🌱 I am studying Ruby on Rails and back-end<p>
-<p>🧪 I have experience with Java and Android Studio, Ruby e Ruby on Rails</p>
+<p>🧪 I have experience with Java, JavaScript, Ruby e Ruby on Rails</p>
 <p>📫 You can reach me at cavalcanteraman2@gmail.com</p>
 <p>⚡  I like to learn new programming languages</p>
 <p>📝 <a href="https://drive.google.com/file/d/1NX5Pe08KmqO3sle3hDimcJ_2PK_MUsll/view?usp=sharing" target="_blank">Click here</a> to see my resume
@@ -27,4 +27,7 @@
  <POSTGRES>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-
+ <RUBY>
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" alt="ruby" width="40" height="40/> </a>
+                    
