@@ -28,6 +28,8 @@
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
  <RUBY>
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" alt="ruby" width="40" height="40/> </a>
-                    
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">    
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a
+ <RAILS>
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/></a>
