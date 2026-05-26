@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Raman Cavalcante</h1>
 
 <h3 align="center">
@@ -97,4 +97,3 @@ Full Stack Developer focused on building scalable and clean web applications
 </a>
 
 </p>
-```
